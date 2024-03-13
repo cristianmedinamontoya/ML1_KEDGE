@@ -1,0 +1,4 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year,top_year,user,Id
+Joy,Shifting Sands,Avishai Cohen,13/05/2022,327310,26,0.437,0.495,0.453,0.852,0.134,-14.088,0.032,87.062,0.559,3,5,1,spotify:track:76iRKbraDFxxprdgTVpYef,2022,2019,zeta,C152
+Concussion - Live,Live In Loveland!,Delvon Lamarr Organ Trio,22/04/2022,323273,16,0.27,0.609,0.494,0.9,0.097,-10.258,0.0436,124.316,0.748,4,0,1,spotify:track:3jF9jV1VLB6BqYRn6ewvMV,2022,2019,zeta,C723
+Tour de France (Etape 2) - 2009 Remaster,Tour de France (2009 Remaster),Kraftwerk,2003,401266,38,0.258,0.671,0.617,0.855,0.883,-12.622,0.0394,140.024,0.547,4,8,1,spotify:track:4VHTOWCMRnKAgg4a9AKdwQ,2003,2019,zeta,C2547
